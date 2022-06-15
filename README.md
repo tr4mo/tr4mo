@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Python 🐍
+- 🤖 AI fanatic
+- 📫 How to reach me: matteo.tramontina@outlook.com
 
 <!--
 **tr4mo/tr4mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

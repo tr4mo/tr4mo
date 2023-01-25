@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Python 🐍
+- 🔭 I’m currently working on a Java project ☕
 - 🤖 AI fanatic
+- ⚡ Fun fact: I love cars!! 🏎️
 - 📫 How to reach me: matteo.tramontina@outlook.com
 
 <!--

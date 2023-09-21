@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Python 🐍
-- 🔭 I’m currently working on a Java project ☕
+- 🔭 I’m currently studying ICE 🧊
 - 🤖 AI fanatic
 - ⚡ Fun fact: I love cars!! 🏎️
-- 📫 How to reach me: matteo.tramontina@outlook.com
+- 📫 How to reach me: info@matteotramontina.it
 
 <!--
 **tr4mo/tr4mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

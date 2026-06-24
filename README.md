@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 Expanding my coding knowledge everyday 🐍
-- 🔭 I’m currently in an internship at Hu-Friedy MFG 🦷
+- 🔭 Working @ www.tramatronics.it 🛜
 - 🤖 AI fanatic
 - ⚡ Fun fact: I love cars!! 🏎️
 - 📫 Reach me @ info@matteotramontina.it
